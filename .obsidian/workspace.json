@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "응용 SW 기초 기술 활용.md",
+                "file": "제품 소프트웨어 패키징.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "응용 SW 기초 기술 활용"
+              "title": "제품 소프트웨어 패키징"
             }
           }
         ]
@@ -170,11 +170,11 @@
   },
   "active": "1566f4ffd8ed3fe7",
   "lastOpenFiles": [
+    "정처기 실기 핵심이론 정리(키워드 중심).md",
+    "응용 SW 기초 기술 활용.md",
     "프로그래밍 언어 활용.md",
     "정보처리기사 문제.md",
     "소프트웨어 개발 보안 구축.md",
-    "정처기 실기 핵심이론 정리(키워드 중심).md",
-    "응용 SW 기초 기술 활용.md",
     "SQL 응용.md",
     "정보처리기사 필기 핵심.md",
     "통합 구현.md",
